@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c8b5890-41f7-409a-84f5-619155b4e390" name="Changes" comment="SM-4 Added kitschy styling for login screen">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_17_0_1.xml" beforeDir="false" />
+    <list default="true" id="0db51282-2237-4b45-9c57-c88383b4705e" name="Changes" comment="solve">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/fmxl/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/fmxl/login.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648647136299</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="solve">
+      <created>1648647655801</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648647655801</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +158,7 @@
     <MESSAGE value="Initial commit with a Hello World JavaFX application" />
     <MESSAGE value="SM-1 Added the login screen" />
     <MESSAGE value="SM-4 Added kitschy styling for login screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="SM-4 Added kitschy styling for login screen" />
+    <MESSAGE value="solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve" />
   </component>
 </project>
