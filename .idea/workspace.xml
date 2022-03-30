@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c8b5890-41f7-409a-84f5-619155b4e390" name="Changes" comment="">
+    <list default="true" id="0c8b5890-41f7-409a-84f5-619155b4e390" name="Changes" comment="SM-4 Added kitschy styling for login screen">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_17_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_17_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_17_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_17_0_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/controllers/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/fmxl/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/fmxl/login.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -114,15 +120,41 @@
       <option name="project" value="LOCAL" />
       <updated>1648555911844</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SM-4 Added kitschy styling for login screen">
+      <created>1648646857769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648646857769</updated>
+    </task>
+    <task id="LOCAL-00004" summary="SM-4 Added kitschy styling for login screen">
+      <created>1648647136299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648647136299</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit with a Hello World JavaFX application" />
     <MESSAGE value="SM-1 Added the login screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="SM-1 Added the login screen" />
+    <MESSAGE value="SM-4 Added kitschy styling for login screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="SM-4 Added kitschy styling for login screen" />
   </component>
 </project>
