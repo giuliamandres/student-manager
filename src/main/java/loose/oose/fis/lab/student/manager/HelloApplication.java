@@ -6,7 +6,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-import java.util.Objects;
+import java.io.IOException;
 
 public class HelloApplication extends Application {
     @Override
@@ -17,6 +17,7 @@ public class HelloApplication extends Application {
         primaryStage.setScene(new Scene(root, 600, 400));
         primaryStage.show();
     }
+
 
 
     public static void main(String[] args) {
